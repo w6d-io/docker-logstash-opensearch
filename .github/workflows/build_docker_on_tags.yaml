@@ -7,7 +7,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: w6d/logstash/opensearch
+  IMAGE_NAME: w6d-io/logstash/opensearch
 
 jobs:
   release:
